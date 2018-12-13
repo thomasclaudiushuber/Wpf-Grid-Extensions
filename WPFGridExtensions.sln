@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFGridExtensions", "WPFGridExtensions\WPFGridExtensions.csproj", "{A61DAD11-51A3-4360-9A6F-B3EDD6E289E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A61DAD11-51A3-4360-9A6F-B3EDD6E289E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A61DAD11-51A3-4360-9A6F-B3EDD6E289E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A61DAD11-51A3-4360-9A6F-B3EDD6E289E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A61DAD11-51A3-4360-9A6F-B3EDD6E289E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A744453-9D7C-408B-93E8-4D7B6A205B9B}
+	EndGlobalSection
+EndGlobal
